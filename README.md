@@ -1,9 +1,3 @@
-# Knight's Tour with GUI and Media Integration
-
- https://github.com/user-attachments/assets/26cbb3e2-9a4e-4733-b531-24c836d5120d
-
----
-
 # 🏇 Knight's Tour – Interactive Chess Puzzle Visualizer
 
 The **Knight's Tour** project is an engaging and educational application that visualizes the classic **Knight’s Tour problem** using a rich graphical user interface. Developed with **Python’s Tkinter library**, it blends algorithmic logic with multimedia elements to create an immersive learning experience for users interested in chess puzzles and pathfinding algorithms.
@@ -65,5 +59,13 @@ This project is ideal for learners who want to explore **graph traversal**, **ba
 <img width="1031" height="462" alt="Screenshot 2025-07-29 151511" src="https://github.com/user-attachments/assets/184af8e2-5378-48df-8476-b82d2fe1f28d" />
 <img width="398" height="394" alt="Screenshot 2025-07-29 151606" src="https://github.com/user-attachments/assets/e2584c79-5f20-45e2-9ff6-326c45190322" />
 <img width="1031" height="461" alt="Screenshot 2025-07-29 151620" src="https://github.com/user-attachments/assets/84691b0f-6c64-480c-94a1-08ea1c5dc607" />
+
+---
+
+# Knight's Tour with GUI and Media Integration
+
+ https://github.com/user-attachments/assets/26cbb3e2-9a4e-4733-b531-24c836d5120d
+
+---
 
 
