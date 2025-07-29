@@ -2,31 +2,61 @@
 
  https://github.com/user-attachments/assets/26cbb3e2-9a4e-4733-b531-24c836d5120d
 
-# Description
+---
 
-The Knight's Tour project is an interactive application designed to solve and visualize the classic Knight's Tour problem using a graphical user interface (GUI). Built with Python's Tkinter library, this project features a comprehensive interface that combines animated GIFs, chessboard visualization, and media playback to create an engaging user experience.
+# 🏇 Knight's Tour – Interactive Chess Puzzle Visualizer
 
-- Interactive Chessboard: Allows users to click on a chessboard to see valid knight moves from the selected position.
-- Knight's Tour Solver: Uses a heuristic approach to find and visualize the solution to the Knight's Tour problem, highlighting each move on the board.
-- Animated GIF: Displays an animated GIF on the main window, resized to fit different screen sizes.
-- Media Integration: Plays background music during the Knight's Tour visualization using the pygame library.
-- Welcome and Input Windows: Features a welcoming screen with an introductory image and an input window for specifying board size and starting position.
-# 🛠️ Tech Stack and Packages Used
-- Python (Programming Language)
-- Tkinter (GUI library)
-- PIL (Pillow for image handling)
-- pygame (Audio playback)
-- ImageTk (Image display in Tkinter)
-- ImageSequence (Handling GIFs)
-# Features
-- Animated GIF handling and resizing
-- Interactive chessboard for knight moves
-- Visualization of the Knight's Tour solution
-- Media playback integration
+The **Knight's Tour** project is an engaging and educational application that visualizes the classic **Knight’s Tour problem** using a rich graphical user interface. Developed with **Python’s Tkinter library**, it blends algorithmic logic with multimedia elements to create an immersive learning experience for users interested in chess puzzles and pathfinding algorithms.
 
-This project integrates graphical and computational elements to create an engaging experience for users interested in chess puzzles and algorithms.
+---
 
-# Images
+## 🎯 Key Highlights
+
+* ♟️ **Interactive Chessboard**
+  Click any square on the board to see valid knight moves instantly.
+
+* 🧠 **Knight's Tour Solver (Heuristic-Based)**
+  Implements a heuristic algorithm to find a complete tour path where the knight visits every square exactly once, visualized step by step.
+
+* 🖼️ **Animated GIF Integration**
+  Dynamically loads and resizes animated GIFs to enhance the UI and keep users engaged.
+
+* 🔊 **Media Playback with Pygame**
+  Plays background music during the tour visualization to provide a pleasant user experience.
+
+* 🪟 **User-Friendly Screens**
+  Includes a welcome screen with introductory images and an input window for selecting board size and starting position.
+
+---
+
+## 🛠️ Tech Stack & Libraries
+
+* **Python** – Core programming language
+* **Tkinter** – For GUI development
+* **Pillow (PIL)** – Image and GIF handling
+* **pygame** – For background music and sound integration
+* **ImageTk & ImageSequence** – To display and animate GIFs in Tkinter
+
+---
+
+## 🌟 Features
+
+* 🎞️ Smooth GIF animation with dynamic resizing
+* 📍 Clickable chessboard to simulate knight movement
+* 🧭 Visual step-by-step Knight’s Tour solution
+* 🔈 Integrated background music using Pygame
+* 🖥️ Simple, interactive UI for users to specify board size and starting position
+
+---
+
+## 💡 Purpose
+
+This project is ideal for learners who want to explore **graph traversal**, **backtracking**, and **heuristic search algorithms**, while also building beautiful interfaces with **multimedia integration**. It provides both educational value and an enjoyable user experience.
+
+---
+
+
+## 📸 Screenshots & Visuals
 
 <img width="373" height="354" alt="Screenshot 2025-07-29 151145" src="https://github.com/user-attachments/assets/c7f49b6f-159b-4df9-b979-489013eeada0" />
 <img width="290" height="315" alt="Screenshot 2025-07-29 151347" src="https://github.com/user-attachments/assets/81a5ac51-460a-4d6c-a276-c2e25c260302" />
