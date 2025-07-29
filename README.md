@@ -29,4 +29,10 @@ This project integrates graphical and computational elements to create an engagi
 # Images
 
 <img width="373" height="354" alt="Screenshot 2025-07-29 151145" src="https://github.com/user-attachments/assets/c7f49b6f-159b-4df9-b979-489013eeada0" />
+<img width="290" height="315" alt="Screenshot 2025-07-29 151347" src="https://github.com/user-attachments/assets/81a5ac51-460a-4d6c-a276-c2e25c260302" />
+<img width="661" height="434" alt="Screenshot 2025-07-29 151448" src="https://github.com/user-attachments/assets/60d851b0-831c-4bdc-a0da-4589f5892eb8" />
+<img width="1031" height="462" alt="Screenshot 2025-07-29 151511" src="https://github.com/user-attachments/assets/184af8e2-5378-48df-8476-b82d2fe1f28d" />
+<img width="398" height="394" alt="Screenshot 2025-07-29 151606" src="https://github.com/user-attachments/assets/e2584c79-5f20-45e2-9ff6-326c45190322" />
+<img width="1031" height="461" alt="Screenshot 2025-07-29 151620" src="https://github.com/user-attachments/assets/84691b0f-6c64-480c-94a1-08ea1c5dc607" />
+
 
