@@ -26,3 +26,7 @@ The Knight's Tour project is an interactive application designed to solve and vi
 
 This project integrates graphical and computational elements to create an engaging experience for users interested in chess puzzles and algorithms.
 
+# Images
+
+<img width="373" height="354" alt="Screenshot 2025-07-29 151145" src="https://github.com/user-attachments/assets/c7f49b6f-159b-4df9-b979-489013eeada0" />
+
