@@ -10,6 +10,12 @@ The **Knight's Tour** project is an engaging and educational application that vi
 
 ---
 
+# Knight's Tour with GUI and Media Integration
+
+ https://github.com/user-attachments/assets/26cbb3e2-9a4e-4733-b531-24c836d5120d
+
+---
+
 ## 🎯 Key Highlights
 
 * ♟️ **Interactive Chessboard**
